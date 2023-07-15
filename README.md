@@ -33,7 +33,7 @@ Julio      PHP
 Erik       CSS
 
 Task:
-DataBase comunication with PHP.
+DataBase communication with PHP.
 
 Fourth Week, Developers:
 
